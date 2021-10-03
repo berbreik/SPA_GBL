@@ -1,2 +1,3 @@
-# SPA_GBL
-Single page application using HTML , CSS , JAVASCRIPT and GRAPHQL  
+# lco-graphql
+A standard babel setup
+Starter project setup for upcoming crash courses
